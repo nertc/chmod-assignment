@@ -1,0 +1,20 @@
+{
+  "name": "chmod-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "answer.js",
+  "scripts": {
+    "start": "node . && printf '\\npermissions now:\\n\\n' && ls -l folder-01 folder-02 folder-03",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nertc/chmod-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nertc/chmod-assignment/issues"
+  },
+  "homepage": "https://github.com/nertc/chmod-assignment#readme"
+}
